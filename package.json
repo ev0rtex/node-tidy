@@ -1,0 +1,27 @@
+{
+  "name": "libtidy",
+  "version": "0.1.0",
+  "description": "Node bindings for libtidy5 to bring up-to-date support for HTML5 standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ev0rtex/node-tidy.git"
+  },
+  "keywords": [
+    "libtidy",
+    "libtidy5",
+    "html",
+    "html5",
+    "htmltidy",
+    "tidy"
+  ],
+  "author": "David Warkentin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ev0rtex/node-tidy/issues"
+  },
+  "homepage": "https://github.com/ev0rtex/node-tidy#readme"
+}
